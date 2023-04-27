@@ -11,6 +11,38 @@ Battleship is a two player strategy and guessing game. This version of Battleshi
 
 ## Demos
 
+The instructions appear when you launch the game.
+
+<img width="600" src="Resources/Instructions.png">
+
+You start the game by creating a username, which is used for the leaderboard, and uploading a .txt file containing your ship positioning. 
+
+&emsp;&emsp;<img width="500" src="Resources/Load.png">
+
+The leaderboard can be displayed at any points.
+
+&emsp;&emsp;<img width="500" src="Resources/Leaderboard.png">
+
+When you hit a ship, fire appears in the cell where you hit it at.
+
+<img width="500" src="Resources/HitShip.png">
+
+The entire ship appears when you sink it
+
+<img width="500" src="Resources/SunkShip.png">
+
+Using points (displayed at bottom of the screen), you can drop a bomb...
+
+<img width="500" src="Resources/DropBomb.png">
+
+... or an air strike
+
+<img width="500" src="Resources/LaunchAirStrike.png">
+
+You continue playing until all the ships (there are 6 in total) are sunk.
+
+<img width="500" src="Resources/SinkAnotherShip.png">
+
 
 ## Core Design Features
 
