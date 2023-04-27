@@ -21,7 +21,7 @@ You start the game by creating a username, which is used for the leaderboard, an
 
 The leaderboard can be displayed at any points.
 
-&emsp;&emsp;<img width="500" src="Resources/Leaderboard.png">
+&emsp;&emsp;<img width="500" src="Resources/Leaderboard2.png">
 
 When you hit a ship, fire appears in the cell where you hit it at.
 
