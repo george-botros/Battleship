@@ -25,23 +25,23 @@ The leaderboard can be displayed at any points.
 
 When you hit a ship, fire appears in the cell where you hit it at.
 
-<img width="500" src="Resources/HitShip.png">
+<img width="600" src="Resources/HitShip.png">
 
 The entire ship appears when you sink it
 
-<img width="500" src="Resources/SunkShip.png">
+<img width="600" src="Resources/SunkShip.png">
 
 Using points (displayed at bottom of the screen), you can drop a bomb...
 
-<img width="500" src="Resources/DropBomb.png">
+<img width="600" src="Resources/DropBomb.png">
 
 ... or an air strike
 
-<img width="500" src="Resources/LaunchAirStrike.png">
+<img width="600" src="Resources/LaunchAirStrike.png">
 
 You continue playing until all the ships (there are 6 in total) are sunk.
 
-<img width="500" src="Resources/SinkAnotherShip.png">
+<img width="600" src="Resources/SinkAnotherShip.png">
 
 
 ## Core Design Features
