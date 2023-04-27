@@ -12,9 +12,6 @@ Battleship is a two player strategy and guessing game. This version of Battleshi
 ## Demos
 
 
-Code:
-* FileLineIterator.java was largely made by the University of Pennsylvania's Computer Science department as part of an assignment but contains some of my own coding.
-
 ## Core Design Features
 
  **1. JUnit Testable**
@@ -38,3 +35,6 @@ Graphics:
 * http://www.stickpng.com/img/nature/fire/cartoon-fire
 * https://worldofwarships.com/en/news/lolz/comic-as-you-are/
 * https://graphicriver.net/item/battleship-war-game-assets/20209011
+
+Code:
+* FileLineIterator.java was made by the University of Pennsylvania's Computer Science department, specifically the CIS 1200 19fa Development Committee (Alex Seidel, Angela Xi, Daniel Like, Nico Melton, Nicolas Corona, and William Goeller), as part of an assignment but contains much of my own coding created when completing the assignment.
