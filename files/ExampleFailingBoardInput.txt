@@ -1,0 +1,22 @@
+-BBBBBBTTT----
+--------------
+A--D----------
+A--D----------
+A--D----------
+A--D----------
+A-------------
+--------------
+--------------
+--------------
+--SSSS--------
+--------------
+--------------
+---------CCCCC
+
+
+B - Battleship - 6 spots
+A - Aircraft Carrier - 5 spots
+C - Cruiser - 5 spots
+D - Destroyer - 4 spots
+S - Submarine - 4 spots
+T - Boat - 3 spots

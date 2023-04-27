@@ -1,0 +1,6 @@
+sanreb:580
+Rebecca:380
+typedPlayer2:200
+Robert:130
+typedPlayer1:100
+Robert:80
